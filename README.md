@@ -1,45 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0f0f,100:1a1a1a&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:000000&text=Henrique&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Java%20Developer&descAlignY=58"/>
 
-# henrique
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Development;Minecraft+Systems+%26+Plugins;Building+Personal+Projects" />
+
+</div>
+
+---
+
+## 👋 About Me
 
 ```java
 public class Henrique {
-    String main = "Java";
+
+    private final int age = 16;
+    private final String language = "Java";
+
+    public String focus() {
+        return "Backend Development";
+    }
 }
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=3000&color=EAEAEA&center=true&vCenter=true&width=420&lines=java;backend;personal+projects" alt="Typing SVG" />
+- 🇧🇷 Brazil
+- ☕ Java Developer
+- 🚀 Developing personal projects since 2023
+- 🎮 Minecraft systems & server development
+- 📚 Constantly learning and improving
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,maven,gradle,vscode" />
 
 </div>
 
-<br>
+---
 
-## sobre
-
-tenho 16 anos e comecei a programar em 2023.  
-desde então, venho estudando e desenvolvendo projetos principalmente com **java**.
-
-<br>
-
-## stack
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea,mysql" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=henqks&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henqks&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9"/>
+
 </div>
 
-<br>
+---
 
-## estatísticas
+## 🔥 Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=henqks&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db&icon_color=ffffff&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henqks&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henqks&bg_color=00000000&color=ffffff&line=58a6ff&point=ffffff&hide_border=true"/>
+
 </div>
 
-<br>
+---
+
+## 🎯 Current Focus
+
+```txt
+☕ Java
+⚡ Performance
+🗄️ MySQL
+🎮 Minecraft Development
+🚀 Personal Projects
+```
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=henqks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=d1d5db&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" />
+
+"Code. Learn. Improve."
+
 </div>
