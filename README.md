@@ -1,83 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:000000&text=Henrique&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Java%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Henrique&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Java%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Java+Developer;Backend+Development;Minecraft+Systems+%26+Plugins;Building+Personal+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Backend+Development;Projetos+Pessoais;Sempre+Aprendendo" />
 
 </div>
 
 ---
 
-## 👋 About Me
+# ☕
 
 ```java
-public class Henrique {
+public final class Henrique {
 
-    private final int age = 16;
-    private final String language = "Java";
+    private final int idade = 16;
 
-    public String focus() {
-        return "Backend Development";
-    }
+    private final String principal = "Java";
+
+    private final String foco = "Backend";
+
+    private final int iniciouProgramacao = 2023;
+
 }
 ```
 
-- 🇧🇷 Brazil
-- ☕ Java Developer
-- 🚀 Developing personal projects since 2023
-- 🎮 Minecraft systems & server development
-- 📚 Constantly learning and improving
+Programo desde 2023 e atualmente desenvolvo projetos utilizando principalmente **Java**.
+
+Tenho interesse em arquitetura de software, sistemas backend, bancos de dados e desenvolvimento de soluções para servidores Minecraft.
 
 ---
 
-## ⚡ Tech Stack
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,maven,gradle,vscode" />
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,maven,gradle" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Estatísticas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=henqks&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hicew&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db&icon_color=ffffff&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henqks&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicew&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db"/>
 
 </div>
 
 ---
 
-## 🔥 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henqks&bg_color=00000000&color=ffffff&line=58a6ff&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
+## Atualmente
 
 ```txt
-☕ Java
-⚡ Performance
-🗄️ MySQL
-🎮 Minecraft Development
-🚀 Personal Projects
+> Desenvolvendo projetos pessoais
+
+> Aprimorando conhecimentos em Java
+
+> Estudando boas práticas de backend
+
+> Explorando arquitetura e performance
+```
+
+---
+
+## Estrutura
+
+```txt
+hicew/
+
+├── backend
+│   ├── java
+│   ├── mysql
+│   └── api
+│
+├── minecraft
+│   ├── plugins
+│   ├── sistemas
+│   └── eventos
+│
+└── projetos-pessoais
 ```
 
 ---
 
 <div align="center">
 
-"Code. Learn. Improve."
+### "Construindo projetos, aprendendo algo novo e evoluindo um commit de cada vez."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:090909,100:1a1a1a"/>
