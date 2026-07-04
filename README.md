@@ -1,38 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=111827&text=Freshzao&fontColor=ffffff&fontSize=48&fontAlignY=45" alt="Freshzao" />
-</div>
 
-<br>
+# Henrique
 
-<div align="center">
-  <h2>Java Backend Developer</h2>
-</div>
+Desenvolvedor Backend Java
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Java+Developer;Backend;Projetos+Pessoais;Sempre+Criando+Algo+Novo" />
 
----
-
-Sou Henrique, desenvolvedor backend com foco em Java. Comecei minha jornada em 2023 e venho construindo projetos pessoais com ênfase em código limpo, boa arquitetura e soluções eficientes.
-
----
-
-### Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,maven,intellij&perline=6" />
 </div>
 
 ---
 
-### Estatísticas
+## 👋 Sobre mim
+
+Me chamo Henrique e comecei a programar em 2023.
+
+Tenho foco no desenvolvimento backend utilizando Java e gosto de criar projetos que me desafiem e me permitam aprender novas tecnologias na prática.
+
+Atualmente estudo desenvolvimento de software, banco de dados, APIs e procuro evoluir um pouco todos os dias, sempre buscando escrever códigos organizados e construir projetos cada vez melhores.
+
+---
+
+## 🛠 Tecnologias
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=freshzao&show_icons=true&theme=dracula&hide_border=true&title_color=00ff9d&text_color=a3a3a3&icon_color=00ff9d" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshzao&layout=compact&theme=dracula&hide_border=true&title_color=00ff9d&text_color=a3a3a3" />
+
+<img src="https://skillicons.dev/icons?i=java,mysql,maven,git,github,intellij&perline=6"/>
+
 </div>
 
-<br>
+---
+
+## 📈 GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=freshzao&theme=dracula&hide_border=true&line=00ff9d&color=a3a3a3&point=00ff9d&bg_color=0d1117" alt="Activity Graph" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=freshzao&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshzao&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=freshzao&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**"A melhor forma de aprender é construindo."**
+
 </div>
