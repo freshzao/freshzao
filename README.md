@@ -1,55 +1,65 @@
+
 <div align="center">
 
-# Henrique
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Henrique&fontColor=F8FAFC&fontSize=62&font=Montserrat&animation=fadeIn"/>
 
-Desenvolvedor Backend Java
+<p>
+<sub>Java Backend Developer</sub>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Java+Developer;Backend;Projetos+Pessoais;Sempre+Criando+Algo+Novo" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=2000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Java;Backend;Projetos+Pessoais"/>
 
 </div>
+
+<br>
 
 ---
 
-## 👋 Sobre mim
+## Sobre
 
-Me chamo Henrique e comecei a programar em 2023.
+Programo desde 2023.
 
-Tenho foco no desenvolvimento backend utilizando Java e gosto de criar projetos que me desafiem e me permitam aprender novas tecnologias na prática.
-
-Atualmente estudo desenvolvimento de software, banco de dados, APIs e procuro evoluir um pouco todos os dias, sempre buscando escrever códigos organizados e construir projetos cada vez melhores.
+Hoje concentro meus estudos e projetos no desenvolvimento backend com Java, explorando APIs, bancos de dados e aplicações voltadas para aprendizado e prática.
 
 ---
 
-## 🛠 Tecnologias
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql,maven,git,github,intellij&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,mysql,maven,git,github,intellij&theme=dark"/>
 
 </div>
+
+<br>
 
 ---
 
-## 📈 GitHub
+## GitHub
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=freshzao&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=freshzao&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshzao&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshzao&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=freshzao&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=freshzao&theme=github-compact&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-**"A melhor forma de aprender é construindo."**
+<sub>freshzao</sub>
 
 </div>
+
