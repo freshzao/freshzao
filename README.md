@@ -1,22 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0A1428&text=Freshzao&fontColor=00E6D9&fontSize=62&fontAlignY=50" alt="Freshzao" />
+  <h1 style="margin: 0; font-size: 3.2em; color: #00E6D9;">Freshzao</h1>
+  <h3 style="margin: 8px 0 0 0; color: #8b949e;">Java Backend Developer</h3>
 </div>
 
-<br>
-
-<div align="center">
-  <h2>Java Backend Developer</h2>
-</div>
-
-<br>
+<br><br>
 
 ---
 
-**Olá, sou Henrique — Freshzao.**
+Sou Henrique, tenho 16 anos e programo desde 2023.
 
-Tenho 16 anos e programo desde 2023. Sou apaixonado por Java e desenvolvimento backend, onde foco em criar aplicações bem estruturadas, com código organizado e eficiente.
-
-Estou sempre evoluindo meus projetos pessoais e buscando aprender as melhores práticas da área.
+Foco meus projetos pessoais em Java no backend, buscando sempre escrever código organizado, limpo e funcional.
 
 ---
 
