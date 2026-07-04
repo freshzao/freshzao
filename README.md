@@ -1,15 +1,18 @@
 <div align="center">
-  <h1 style="margin: 0; font-size: 3.2em; color: #00E6D9;">Freshzao</h1>
-  <h3 style="margin: 8px 0 0 0; color: #8b949e;">Java Backend Developer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=111827&text=Freshzao&fontColor=ffffff&fontSize=48&fontAlignY=45" alt="Freshzao" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Java Backend Developer</h2>
 </div>
 
 <br><br>
 
 ---
 
-Sou Henrique, tenho 16 anos e programo desde 2023.
-
-Foco meus projetos pessoais em Java no backend, buscando sempre escrever código organizado, limpo e funcional.
+Sou Henrique, desenvolvedor backend com foco em Java. Comecei minha jornada em 2023 e venho construindo projetos pessoais com ênfase em código limpo, boa arquitetura e soluções eficientes.
 
 ---
 
@@ -24,12 +27,12 @@ Foco meus projetos pessoais em Java no backend, buscando sempre escrever código
 ### Estatísticas
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=freshzao&show_icons=true&theme=radical&hide_border=true&title_color=00E6D9&text_color=9ca3af&icon_color=00E6D9" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshzao&layout=compact&theme=radical&hide_border=true&title_color=00E6D9&text_color=9ca3af" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=freshzao&show_icons=true&theme=dracula&hide_border=true&title_color=00ff9d&text_color=a3a3a3&icon_color=00ff9d" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freshzao&layout=compact&theme=dracula&hide_border=true&title_color=00ff9d&text_color=a3a3a3" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=freshzao&theme=radical&hide_border=true&line=00E6D9&color=9ca3af&point=00E6D9&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=freshzao&theme=dracula&hide_border=true&line=00ff9d&color=a3a3a3&point=00ff9d&bg_color=0d1117" alt="Activity Graph" />
 </div>
